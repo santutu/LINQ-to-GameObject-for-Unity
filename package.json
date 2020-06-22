@@ -1,29 +1,18 @@
 {
-  "name": "st.one-line",
-  "displayName": "OneLine",
+  "name": "com.linqtogameobject",
+  "displayName": "LINQ To GameObject For Unity",
   "version": "0.5.0",
   "unity": "2017.1",
-  "description": "Draw any object in the inspector into a single line.",
+  "description": "LINQ to GameObject is GameObject extensions for Unity that allows traverse hierarchy and append GameObject. The design aims both to get the power of LINQ and performance of iteration.",
   "keywords": [
-    "editor",
     "unity",
-    "inspector"
+    "linq"
   ],
   "author": {
-    "name": "Slavniyteo"
+    "name": "neuecc"
   },
-  "dependencies": {
-    "st.rect-ex": "0.2.0"
-  },
-  "samples": [
-    {
-      "displayName": "OneLine Examples",
-      "description": "Overview and details examples.",
-      "path": "Samples~"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/d4160/one-line.git"
+    "url": "https://github.com/H-man/LINQ-to-GameObject-for-Unity.git"
   }
 }
