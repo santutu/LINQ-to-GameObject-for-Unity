@@ -2,7 +2,7 @@
   "name": "com.linqtogameobject",
   "displayName": "LINQ To GameObject For Unity",
   "version": "0.5.1",
-  "unity": "2019.4",
+  "unity": "2018",
   "description": "LINQ to GameObject is GameObject extensions for Unity that allows traverse hierarchy and append GameObject. The design aims both to get the power of LINQ and performance of iteration.",
   "keywords": [
     "unity",
