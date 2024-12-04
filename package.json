@@ -1,8 +1,8 @@
 {
-  "name": "com.h-man.linqtogameobject",
+  "name": "com.santutu.linqtogameobject",
   "displayName": "LINQ To GameObject For Unity",
   "version": "0.5.2",
-  "unity": "2018",
+  "unity": "2018.4",
   "description": "LINQ to GameObject is GameObject extensions for Unity that allows traverse hierarchy and append GameObject. The design aims both to get the power of LINQ and performance of iteration.",
   "keywords": [
     "unity",
@@ -11,8 +11,10 @@
   "author": {
     "name": "neuecc"
   },
+  "license": "MIT",
+  "licensesUrl": "https://github.com/neuecc/LINQ-to-GameObject-for-Unity/blob/master/LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/H-man/LINQ-to-GameObject-for-Unity.git"
+    "url": "https://github.com/santutu/LINQ-to-GameObject-for-Unity.git"
   }
 }
